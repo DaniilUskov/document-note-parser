@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocToExcelNoteParser", "DocToExcelNoteParser.csproj", "{17D0C0CC-7F92-4197-9DD4-80826E162C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D0C0CC-7F92-4197-9DD4-80826E162C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D0C0CC-7F92-4197-9DD4-80826E162C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D0C0CC-7F92-4197-9DD4-80826E162C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D0C0CC-7F92-4197-9DD4-80826E162C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7237D705-FA5A-43C0-A649-5A0387C67551}
+	EndGlobalSection
+EndGlobal
